@@ -6,6 +6,10 @@ body.dark button{
     background-color: #000;
     color: aliceblue;
     border-radius: 40px;
+    
+}
+body.dark h1 {
+    color: #000;
 }
 body.dark .dark-btn {
     background-color: #fff;
@@ -20,3 +24,4 @@ body.dark p {
     color: rgb(0, 21, 255);
     
 }
+
